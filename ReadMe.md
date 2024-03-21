@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Focando em desenvolvimento web front end<br>👯 Procurando colaborar em um projeto<br>🤝Precisando de ajuda com designs responsivos<br>🌱 Atualmente aprendendo Java<br>💬Me interesso bastante por Designs Responsivos
+🔭Focando<br>👯 Procurando colaborar em um projeto<br><br>🌱 Atualmente aprendendo Java<br>
 
 
 # 💻 Tech Stack:
