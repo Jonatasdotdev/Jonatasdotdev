@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Focando<br>👯 Procurando colaborar em um projeto<br><br>🌱 Atualmente aprendendo Java<br>
+🔭Focando<br>👯 Procurando colaborar em um projeto<br>🌱 Atualmente aprendendo Java<br>
 
 
 # 💻 Tech Stack:
