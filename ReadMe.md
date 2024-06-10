@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Focando<br>👯 Procurando colaborar em um projeto<br>🌱 Atualmente aprendendo Java<br>Gosto de deixar Atividades Salvas aqui para remover do PC :D<br>
+🔭Focando<br>👯 Procurando colaborar em um projeto<br>🌱 Atualmente aprendendo Java<br>Gosto de deixar meu desenvolvimento aqui para ocupar menos espaço!<br>
 
 
 # 💻 Tech Stack:
