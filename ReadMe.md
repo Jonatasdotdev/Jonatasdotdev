@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Focused<br>👯Looking for job opportunities <br>
+🔭Focused<br>👯Looking for job opportunities <br> Learning C#
 
 
 ## 🌐 Socials:
